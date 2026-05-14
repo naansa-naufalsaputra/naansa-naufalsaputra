@@ -1,7 +1,7 @@
 # <p align="center">👋 Hi, I'm Naufal Saputra</p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/naansa-naufalsaputra/Lyra/main/assets/profile_banner.png" alt="Profile Banner" width="100%">
+  <img src="https://github.com/naansa-naufalsaputra/Lyra/raw/main/assets/profile_banner.png" alt="Profile Banner" width="100%">
 </p>
 
 <p align="center">
@@ -22,8 +22,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naansa-naufalsaputra&show_icons=true&theme=dark" alt="GitHub Stats" height="150px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naansa-naufalsaputra&layout=compact&theme=dark" alt="Top Languages" height="150px">
+  <img src="https://github-readme-stats.vercel.app/api?username=naansa-naufalsaputra&show_icons=true&theme=radical&cache_seconds=1800" alt="GitHub Stats" height="150px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naansa-naufalsaputra&layout=compact&theme=radical&cache_seconds=1800" alt="Top Languages" height="150px">
 </p>
 
 ---
