@@ -26,8 +26,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naansa-naufalsaputra&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="150px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=naansa-naufalsaputra&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="150px">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=naansa-naufalsaputra&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="150px">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=naansa-naufalsaputra&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="150px">
 </p>
 
 ---
