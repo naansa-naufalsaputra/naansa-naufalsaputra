@@ -32,10 +32,10 @@
 
 ---
 
-### ✨ My Featured Projects
+### ✨ Featured Projects
 
-- **🚀 [Lyra](https://github.com/naansa-naufalsaputra/Lyra)**: A Smart Task Manager with NLP and Real-time syncing.
-- **💰 [DuaSaku](https://github.com/naansa-naufalsaputra/DuaSaku)**: Financial tracking with AI-powered insights.
+- **🚀 [Lyra](https://github.com/naansa-naufalsaputra/Lyra)** — A premium SaaS-ready task manager featuring an advanced **NLP Parser**, real-time Firestore sync, and elegant glassmorphism design.
+- **💰 [DuaSaku](https://github.com/naansa-naufalsaputra/DuaSaku)** — An intelligent financial ecosystem designed to track expenses and provide **AI-powered insights** for better personal budgeting.
 
 ---
 
