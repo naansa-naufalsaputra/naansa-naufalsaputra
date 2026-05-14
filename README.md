@@ -22,8 +22,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naansa-naufalsaputra&show_icons=true&theme=tokyonight" alt="Stats" height="150px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naansa-naufalsaputra&layout=compact&theme=tokyonight" alt="Top Langs" height="150px">
+  <img src="https://github-readme-stats.vercel.app/api?username=naansa-naufalsaputra&show_icons=true&theme=dark" alt="GitHub Stats" height="150px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naansa-naufalsaputra&layout=compact&theme=dark" alt="Top Languages" height="150px">
 </p>
 
 ---
