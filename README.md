@@ -8,6 +8,10 @@
   <strong>Fullstack Developer | UI/UX Enthusiast | Builder of Lyra And DuaSaku</strong>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=naansa-naufalsaputra&color=ff4500&style=flat-square&label=PROFILE+VIEWS" alt="Views">
+</p>
+
 ---
 
 ### 🛠 Tech Stack
@@ -22,16 +26,16 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naansa-naufalsaputra&show_icons=true&theme=radical&cache_seconds=1800" alt="GitHub Stats" height="150px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naansa-naufalsaputra&layout=compact&theme=radical&cache_seconds=1800" alt="Top Languages" height="150px">
+  <img src="https://github-readme-stats.vercel.app/api?username=naansa-naufalsaputra&show_icons=true&theme=radical&hide_border=true&bg_color=0f1011&title_color=ff4500&icon_color=ff4500" alt="GitHub Stats" height="150px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naansa-naufalsaputra&layout=compact&theme=radical&hide_border=true&bg_color=0f1011&title_color=ff4500" alt="Top Languages" height="150px">
 </p>
 
 ---
 
 ### ✨ My Featured Projects
 
-- **[Lyra](https://github.com/naansa-naufalsaputra/Lyra)**: A Smart Task Manager with NLP and Real-time syncing.
-- **[DuaSaku]**: Financial tracking with AI-powered insights.
+- **🚀 [Lyra](https://github.com/naansa-naufalsaputra/Lyra)**: A Smart Task Manager with NLP and Real-time syncing.
+- **💰 [DuaSaku]**: Financial tracking with AI-powered insights.
 
 ---
 
