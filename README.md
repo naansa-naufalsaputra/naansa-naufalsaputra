@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <strong>Fullstack Developer | UI/UX Enthusiast | Builder of Lyra</strong>
+  <strong>Fullstack Developer | UI/UX Enthusiast | Builder of Lyra And DuaSAku</strong>
 </p>
 
 ---
